@@ -1,0 +1,8 @@
+C:\Users\Acer\Downloads\Mealy_Machine\Mealy_Machine\bin\Debug\Mealy_Machine.exe.config
+C:\Users\Acer\Downloads\Mealy_Machine\Mealy_Machine\bin\Debug\Mealy_Machine.exe
+C:\Users\Acer\Downloads\Mealy_Machine\Mealy_Machine\bin\Debug\Mealy_Machine.pdb
+C:\Users\Acer\Downloads\Mealy_Machine\Mealy_Machine\obj\Debug\Mealy_Machine.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\Mealy_Machine\Mealy_Machine\obj\Debug\Mealy_Machine.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\Mealy_Machine\Mealy_Machine\obj\Debug\Mealy_Machine.exe
+C:\Users\Acer\Downloads\Mealy_Machine\Mealy_Machine\obj\Debug\Mealy_Machine.pdb
+C:\Users\Acer\Downloads\Mealy_Machine\Mealy_Machine\obj\Debug\Mealy_Machine.exe.config
